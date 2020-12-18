@@ -102,5 +102,12 @@ To view reports in another environment:
 1. Select the new environment from the **Environment** list and optionally, select a **Time Period**.
 1. Select **Apply**.
 
-
 ![View reports from another environment](media/analytics-flow/new-environment.png)
+
+## Per flow analytics in the Power Automate portal
+
+Per flow analytics, including [action analytics](https://docs.microsoft.com/en-us/power-platform/admin/analytics-flow), can be seen in the [Power Automate portal](https://flow.microsoft.com/):
+
+1. Open a flow in the [Power Automate portal](https://flow.microsoft.com/)
+2. Click **Analytics**
+3. View the reports on the **Actions**, **Usage**, and **Errors** tabs
