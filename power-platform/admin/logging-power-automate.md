@@ -54,7 +54,7 @@ All logging is done at the SDK layer, so a single action can trigger multiple lo
 |Flows | Created flow | The time a flow is created|
 |Flows | Edited flow | Any updates made to the flow|
 |Flows | Deleted flow | When the flow is deleted|
-|Flow permissions | Edited permissions | Every time a user's permissions to the flow changes|
+|Flow permissions | Edited permissions | Every time a user's permissions to the flow changes e.g. user added as co-owner|
 |Flow permissions | Deleted permissions | Every time a user's permissions to the flow is removed|
 |Trials | Started a paid trial | When a user starts a paid trial|
 |Trials | Renewed a paid trial | When a user renews a paid trial|
